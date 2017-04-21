@@ -5,6 +5,6 @@ namespace Net.Chdk.Detectors.CameraModel
 {
     public interface ICameraModelDetector
     {
-        CameraModelInfo GetCameraModel(CardInfo cardInfo);
+        CameraModelInfo[] GetCameraModels(CardInfo cardInfo);
     }
 }
