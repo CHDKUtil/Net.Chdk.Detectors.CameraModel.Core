@@ -8,7 +8,7 @@
     <ProjectGuid>{3B10662E-DFD4-48C8-8245-A135504FCB25}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Net.Chdk.Detectors.CameraModel.Core</RootNamespace>
+    <RootNamespace>Net.Chdk.Detectors.CameraModel</RootNamespace>
     <AssemblyName>Net.Chdk.Detectors.CameraModel.Core</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
