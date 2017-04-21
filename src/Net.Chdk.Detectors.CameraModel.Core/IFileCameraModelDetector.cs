@@ -2,6 +2,6 @@
 {
     public interface IFileCameraModelDetector
     {
-        CameraList GetCameraModels(string filePath);
+        CameraModels GetCameraModels(string filePath);
     }
 }

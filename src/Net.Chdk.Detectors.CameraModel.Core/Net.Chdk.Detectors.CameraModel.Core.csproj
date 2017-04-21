@@ -51,7 +51,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CameraList.cs" />
+    <Compile Include="CameraModels.cs" />
     <Compile Include="ICameraModelDetector.cs" />
     <Compile Include="ICameraModelDetectorEx.cs" />
     <Compile Include="IFileCameraModelDetector.cs" />
