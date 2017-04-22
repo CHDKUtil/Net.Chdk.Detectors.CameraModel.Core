@@ -4,7 +4,7 @@ using Net.Chdk.Model.Card;
 
 namespace Net.Chdk.Detectors.CameraModel
 {
-    public interface ICameraModelDetectorEx
+    public interface IInnerCameraModelDetector
     {
         CameraModelInfo[] GetCameraModels(CardInfo cardInfo, CameraInfo cameraInfo);
     }
