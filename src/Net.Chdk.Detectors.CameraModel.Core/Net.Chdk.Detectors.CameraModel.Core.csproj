@@ -59,7 +59,6 @@
     <Compile Include="CameraModels.cs" />
     <Compile Include="ICameraModelDetector.cs" />
     <Compile Include="IFileCameraModelDetector.cs" />
-    <Compile Include="IProductCameraModelDetector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
