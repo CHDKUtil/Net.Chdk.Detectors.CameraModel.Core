@@ -7,7 +7,5 @@ namespace Net.Chdk.Detectors.CameraModel
     {
         public CameraInfo Info { get; set; }
         public CameraModelInfo[] Models { get; set; }
-        public string AltButton { get; set; }
-        public string[] AltButtons { get; set; }
     }
 }
