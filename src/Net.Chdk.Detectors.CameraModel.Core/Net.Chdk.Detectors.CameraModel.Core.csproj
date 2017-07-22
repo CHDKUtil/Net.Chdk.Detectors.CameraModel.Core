@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <Product>CHIMP</Product>
     <Authors>Dmitry Shechtman</Authors>
     <Copyright>Copyright © 2017 Dmitry Shechtman</Copyright>
@@ -38,7 +38,7 @@
     <PackageReference Include="Net.Chdk.Model.Camera" Version="0.1.0-alpha" />
     <PackageReference Include="Net.Chdk.Model.CameraModel" Version="0.1.0-alpha" />
     <PackageReference Include="Net.Chdk.Model.Card" Version="0.1.0-alpha" />
-    <PackageReference Include="Net.Chdk.Model.Software" Version="0.1.0-alpha" />
+    <PackageReference Include="Net.Chdk.Model.Software" Version="0.2.0-alpha" />
   </ItemGroup>
 
 </Project>
